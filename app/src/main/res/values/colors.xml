@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- For Main Screen -->
+    <color name="colorPrimary">#354f52</color>
+    <color name="colorPrimaryDark">#52796f</color>
+    <color name="colorAccent">#84a98c</color>
+    <color name="colorBackground">#F6FFF8</color>
+    <color name="colorWorstTip">#DC1E0B</color>
+    <color name="colorBestTip">#35BA01</color>
+    <!-- For Splash Screen -->
+    <color name="grey">#d3d3d3</color>
+    <color name="white">#ffffff</color>
+    <color name="black">#000000</color>
+</resources>
