@@ -5,3 +5,6 @@ was and Tipper will calculate how much your final total cost including tip shoul
 In the files, there is a screen capture video file called Tipper_DemoVideo.swf that gives an overview
 of how the fully functioning app works in case the user can't try it out for themselves by using Android
 Studio.
+
+![TipperApp2](https://user-images.githubusercontent.com/43049757/86588931-44c1da80-bf52-11ea-9a04-fa4bdfa71f08.PNG)
+![TipperApp1](https://user-images.githubusercontent.com/43049757/86588932-455a7100-bf52-11ea-8054-e50888710bab.PNG)
